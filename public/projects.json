@@ -1,0 +1,12 @@
+[
+	{
+	"id": 1,
+	"name": "rails projects",
+	"github_status": false
+	},
+	{
+	"id": 2,
+	"name": "terminal app",
+	"github_status": true
+	}
+]
